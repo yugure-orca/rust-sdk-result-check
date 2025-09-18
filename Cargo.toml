@@ -1,0 +1,9 @@
+[package]
+name = "rust-sdk-result-check"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+orca_whirlpools_client = "5.0.0"
+orca_whirlpools_core = "2.0.0"
